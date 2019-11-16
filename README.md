@@ -1,1 +1,1 @@
-# Python
+Hello, My name is christian. I am a Network Engineer who is curious about the future of automation and infrastructure in general. In this repositiory will be some of the most interesting snippets of code that I have created and want to keep as I attempt to bridge my knowledge gap between software and infrasturce.
