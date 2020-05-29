@@ -1,0 +1,21 @@
+#TDEE Calculator
+
+# What is a TDEE Calculator: https://steelfitusa.com/2018/10/calculate-tdee/
+
+#A TDEE Calculator takes your height, weight, age, and levels of activity to calculate how many calories you need
+
+height = input("How tall are you in inches my boy? ")
+weight = input("How fat/skinny are you today in pounds? ")
+age = input("How long have you had this body? ")
+print(f"You are {height} inches tall, weight {weight}lbs and are {age} years old. ")
+
+
+
+#def BasicTdee(height, weight, age):
+    #print(f"You are {height} inches tall, weight {weight}lbs and are {age} years old. ")
+
+#BasicTdee()
+
+# TODO: implement levels of activity feature
+
+# TODO: Feature using BMI that gives out a comment
