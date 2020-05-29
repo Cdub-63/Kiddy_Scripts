@@ -9,12 +9,8 @@ weight = input("How fat/skinny are you today in pounds? ")
 age = input("How long have you had this body? ")
 print(f"You are {height} inches tall, weight {weight}lbs and are {age} years old. ")
 
-
-
-#def BasicTdee(height, weight, age):
-    #print(f"You are {height} inches tall, weight {weight}lbs and are {age} years old. ")
-
-#BasicTdee()
+# TODO: Get basal metabolic rate from entered values
+# Basal Metabolic Rate is how many calories your bodies burns throughout the day by default.
 
 # TODO: implement levels of activity feature
 
