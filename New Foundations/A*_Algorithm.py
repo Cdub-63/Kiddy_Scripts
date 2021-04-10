@@ -25,5 +25,11 @@ def a_star(graph, start):
         heappush(vertices_to_explore, (new_distance, neighbor))
   
   return distances
+  
+  
+There are only a few important changes you will need to make:
+ - Include a target for the search to find. No more searching in all directions for all destinations.
+ - Collect and return the shortest path. A dictionary of distances is cool and all, but A* is on a mission to get you to your target destination and tell you how to get there.
+ - Build a heuristic that calculates the estimated distance between two points. This is the crucial point of difference between Dijkstra’s and A*; A* has a real sense of direction.
 """
 
